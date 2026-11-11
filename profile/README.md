@@ -46,9 +46,9 @@ Four minds. One development cluster.
 
 | Team member | GitHub | LinkedIn |
 |---|---|---|
-| **Aparna** | [GitHub](APARNA_GITHUB_URL) | [LinkedIn](APARNA_LINKEDIN_URL) |
-| **Arya Krishna** | [GitHub](ARYA_GITHUB_URL) | [LinkedIn](ARYA_LINKEDIN_URL) |
-| **Danwin Saith** | [GitHub](DANWIN_GITHUB_URL) | [LinkedIn](DANWIN_LINKEDIN_URL) |
+| **Aparna** | [GitHub](https://github.com/aparnadhiraj12-crypto) | [LinkedIn](https://www.linkedin.com/in/aparna-dhiraj-6b25992a0) |
+| **Arya Krishna** | [GitHub](https://github.com/Aryakrishna-07) | [LinkedIn](https://www.linkedin.com/in/arya-krishna-cs-2bb70b327) |
+| **Danwin Sajith** | [GitHub](https://github.com/danwin-byte) | [LinkedIn](https://www.linkedin.com/in/danwin-sajith-6b49212b9) |
 | **Harisha Pal** | [GitHub](HARISHA_GITHUB_URL) | [LinkedIn](HARISHA_LINKEDIN_URL) |
 
 *Replace the uppercase URL placeholders with each member's public profile links.*
@@ -72,7 +72,7 @@ Our project work spans several areas. The technologies below are drawn from the 
 ## Explore
 
 - [Brain.exe repositories](https://github.com/Team-Brain-exe?tab=repositories)
-- [Addmore Technologies](ADDMORE_TECHNOLOGIES_URL)
+- [Addmore Technologies](https://github.com/Addmore-Technologies)
 
 ---
 
