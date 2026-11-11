@@ -72,7 +72,7 @@ Our project work spans several areas. The technologies below are drawn from the 
 ## Explore
 
 - [Brain.exe repositories](https://github.com/Team-Brain-exe?tab=repositories)
-- [Addmore Technologies](https://github.com/Addmore-Technologies)
+- [Addmoré Technologies](https://github.com/Addmore-Technologies)
 
 ---
 
