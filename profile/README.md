@@ -8,8 +8,8 @@
 
 Building intelligent, useful and scalable solutions through collaboration, experimentation and engineering.
 
-<img src="https://img.shields.io/badge/Cluster-Brain.exe-111827?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Company-Addmore%20Technologies-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cluster A -Brain.exe-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Company-Addmoré%20Technologies-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-Software%20%7C%20AI%20%7C%20Innovation-0891B2?style=for-the-badge" />
 
 [Projects](#our-projects) · [Team](#meet-the-team) · [Technology](#technology) · [Repositories](https://github.com/Team-Brain-exe)
@@ -46,7 +46,7 @@ Four minds. One development cluster.
 
 | Team member | GitHub | LinkedIn |
 |---|---|---|
-| **Aparna DHIRAJ** | [GitHub](https://github.com/aparnadhiraj12-crypto) | [LinkedIn](https://www.linkedin.com/in/aparna-dhiraj-6b25992a0) |
+| **Aparna Dhiraj** | [GitHub](https://github.com/aparnadhiraj12-crypto) | [LinkedIn](https://www.linkedin.com/in/aparna-dhiraj-6b25992a0) |
 | **AryaKrishna C S** | [GitHub](https://github.com/Aryakrishna-07) | [LinkedIn](https://www.linkedin.com/in/arya-krishna-cs-2bb70b327) |
 | **Danwin Sajith** | [GitHub](https://github.com/danwin-byte) | [LinkedIn](https://www.linkedin.com/in/danwin-sajith-6b49212b9) |
 | **Harisha Pal** | [GitHub](HARISHA_GITHUB_URL) | [LinkedIn](HARISHA_LINKEDIN_URL) |
@@ -80,7 +80,7 @@ Our project work spans several areas. The technologies below are drawn from the 
 
 ### BUILDING WHAT'S NEXT.
 
-**Brain.exe | Addmore Technologies**
+**Brain.exe | Addmoré  Technologies**
 
 *Ideas become better when we build them together.*
 
