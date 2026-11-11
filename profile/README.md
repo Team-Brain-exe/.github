@@ -20,7 +20,7 @@ Building intelligent, useful and scalable solutions through collaboration, exper
 
 ## About Brain.exe
 
-Brain.exe is a four-member development cluster under **Addmore Technologies**. We collaborate on software products and technology-driven projects, exploring areas such as full-stack engineering, artificial intelligence, real-time systems, computer vision and data-driven applications.
+Brain.exe is a four member development cluster under **Addmore Technologies**. We collaborate on software products and technology driven projects, exploring areas such as full stack engineering, artificial intelligence, real time systems, computer vision and data driven applications.
 
 Our work moves from problem understanding and system design to implementation, integration and evaluation.
 
@@ -46,8 +46,8 @@ Four minds. One development cluster.
 
 | Team member | GitHub | LinkedIn |
 |---|---|---|
-| **Aparna** | [GitHub](https://github.com/aparnadhiraj12-crypto) | [LinkedIn](https://www.linkedin.com/in/aparna-dhiraj-6b25992a0) |
-| **Arya Krishna** | [GitHub](https://github.com/Aryakrishna-07) | [LinkedIn](https://www.linkedin.com/in/arya-krishna-cs-2bb70b327) |
+| **Aparna DHIRAJ** | [GitHub](https://github.com/aparnadhiraj12-crypto) | [LinkedIn](https://www.linkedin.com/in/aparna-dhiraj-6b25992a0) |
+| **AryaKrishna C S** | [GitHub](https://github.com/Aryakrishna-07) | [LinkedIn](https://www.linkedin.com/in/arya-krishna-cs-2bb70b327) |
 | **Danwin Sajith** | [GitHub](https://github.com/danwin-byte) | [LinkedIn](https://www.linkedin.com/in/danwin-sajith-6b49212b9) |
 | **Harisha Pal** | [GitHub](HARISHA_GITHUB_URL) | [LinkedIn](HARISHA_LINKEDIN_URL) |
 
